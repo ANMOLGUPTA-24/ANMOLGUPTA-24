@@ -4,10 +4,6 @@
 
 ---
 
-Hi! I’m **Anmol Gupta** — a tech enthusiast who loves exploring programming, learning by building, and improving through practice.  
-I enjoy turning ideas into small projects and understanding how things work behind the scenes.
-
-
 Hi! I’m **Anmol Gupta**.  
 I enjoy exploring the world of **technology and programming**, learning by building small projects, and improving my problem-solving skills one step at a time.
 
