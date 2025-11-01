@@ -11,7 +11,7 @@ I enjoy exploring the world of **technology and programming**, learning by build
 
 ### 🔹 About Me
 - 🌱 Currently exploring tech.  
-- 💻 Exploring DSA as of now.
+- 💻 Exploring frontend basics as of now.
 - 🧠 Always curious to explore and understand how things work. 
 - 🎯 To contribute to meaningful projects.
 
@@ -19,14 +19,14 @@ I enjoy exploring the world of **technology and programming**, learning by build
 
 ### 🧩 Tech Stack
 - **Languages:** Java, C  
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS
 - **Tools:** VS Code, Git, GitHub  
 
 ---
 
 ### 📁 Projects
 **Personal Portfolio Website**  
-> My first web project — created from scratch using HTML, CSS, and JavaScript.  
+> My first web project — created from scratch using HTML, CSS, and JavaScript.
 > Currently optimized for desktop (responsive version coming soon).
 
 ---
